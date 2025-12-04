@@ -19,10 +19,14 @@ class Program
         {
             roomSelect = Rolls.rand.Next(1, 101);
 
-            if (roomSelect <=20)
+            if (roomSelect <=10)
                 {
                     SpecialRooms.HealingRoom();
                 }
+            else if ((roomSelect >= 11) && (roomSelect <= 20))
+                {
+                    SpecialRooms.WeaponRoom();
+                }                                    
             else if ((roomSelect >= 21) && (roomSelect <=30))
                 {
                     SpecialRooms.TrapRoomPit();

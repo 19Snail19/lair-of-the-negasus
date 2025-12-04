@@ -193,6 +193,18 @@ class SpecialRooms
         }
     }
 
+    public static void WeaponRoom()
+    {
+        Program.Typewrite("\nAs soon as you enter the room your loot senses begin tingle.");
+        Program.Typewrite("Your eyes greedily scan the room until... there! A box!");
+        Program.Typewrite("You dash over to the box and do a little prospector jig");
+        Program.Typewrite("before kneeling to remove the lid.");
+        Program.Typewrite("...");
+        Console.ReadKey(true);
+
+        Items.WeapLoot();
+    }
+
 
 
 

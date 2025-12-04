@@ -12,3 +12,4 @@ C:\Users\jessi\Projects\Negasus\obj\Debug\net9.0\refint\Negasus.dll
 C:\Users\jessi\Projects\Negasus\obj\Debug\net9.0\Negasus.pdb
 C:\Users\jessi\Projects\Negasus\obj\Debug\net9.0\Negasus.genruntimeconfig.cache
 C:\Users\jessi\Projects\Negasus\obj\Debug\net9.0\ref\Negasus.dll
+C:\Users\jessi\Projects\Negasus\obj\Debug\net9.0\Negasus.sourcelink.json

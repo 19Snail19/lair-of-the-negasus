@@ -1,0 +1,14 @@
+C:\Users\jessi\Projects\Negasus\bin\Debug\net9.0\Negasus.exe
+C:\Users\jessi\Projects\Negasus\bin\Debug\net9.0\Negasus.deps.json
+C:\Users\jessi\Projects\Negasus\bin\Debug\net9.0\Negasus.runtimeconfig.json
+C:\Users\jessi\Projects\Negasus\bin\Debug\net9.0\Negasus.dll
+C:\Users\jessi\Projects\Negasus\bin\Debug\net9.0\Negasus.pdb
+C:\Users\jessi\Projects\Negasus\obj\Debug\net9.0\Negasus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\Projects\Negasus\obj\Debug\net9.0\Negasus.AssemblyInfoInputs.cache
+C:\Users\jessi\Projects\Negasus\obj\Debug\net9.0\Negasus.AssemblyInfo.cs
+C:\Users\jessi\Projects\Negasus\obj\Debug\net9.0\Negasus.csproj.CoreCompileInputs.cache
+C:\Users\jessi\Projects\Negasus\obj\Debug\net9.0\Negasus.dll
+C:\Users\jessi\Projects\Negasus\obj\Debug\net9.0\refint\Negasus.dll
+C:\Users\jessi\Projects\Negasus\obj\Debug\net9.0\Negasus.pdb
+C:\Users\jessi\Projects\Negasus\obj\Debug\net9.0\Negasus.genruntimeconfig.cache
+C:\Users\jessi\Projects\Negasus\obj\Debug\net9.0\ref\Negasus.dll

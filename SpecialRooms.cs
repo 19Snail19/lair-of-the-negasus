@@ -22,15 +22,15 @@ class SpecialRooms
         Program.Typewrite("\nWill you rest and recover? Y/N");
 
         WhutFour:
-        healChoice = Console.ReadLine().ToUpper();
+        SpecialRooms.healChoice = Console.ReadLine().ToUpper();
 
-        if ((healChoice != "Y") && (healChoice != "N"))
+        if ((SpecialRooms.healChoice != "Y") && (SpecialRooms.healChoice != "N"))
         {
             Program.Typewrite("Whut?");
             goto WhutFour;
         }
 
-        else if (healChoice == "Y")
+        else if (SpecialRooms.healChoice == "Y")
         {
             Program.Typewrite("\nYou eat the stew and sip the cool water as you lounge on the");
             Program.Typewrite("sofa. Within moments your head droops and you drift off to sleep.");
@@ -47,7 +47,7 @@ class SpecialRooms
             Program.currentPlayer.roomsClear += 1;
         }
         
-        else if (healChoice == "N")
+        else if (SpecialRooms.healChoice == "N")
         {
             Program.Typewrite("\nConfident that your stamina will hold, you politely tell the bowl");
             Program.Typewrite("of stew, 'No thank you'. You dash past the crackling fire place and");
